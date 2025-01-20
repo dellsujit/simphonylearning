@@ -1,0 +1,15 @@
+{
+  "name": "simphonylearning",
+  "version": "1.0.0",
+  "description": "Oracle Simphony Extension",
+  "main": "src/main/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "DevX",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
